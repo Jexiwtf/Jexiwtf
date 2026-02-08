@@ -60,6 +60,6 @@ Each repository reflects **real practice**, consistency, and backend‑first thi
 
 ## 🤝 Connect
 
-* GitHub: **@Jexi**
+* GitHub: **@Jexiwtf**
 
 Always building. Always improving. 🔥
